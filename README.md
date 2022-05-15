@@ -10,11 +10,11 @@
 - 🧳 I am a Software Engineer from Italy, currently working in Switzerland
 - 💼 I am currently working in Switzerland 
 - 💻 I am currently working as a Front-end engineer with React, Redux and typescript 
-&nbsp;
+
 
 - 🧠 I am currently studying DSA and System Design for technical interviews 
 - 📧 How to reach me: __vgtmhl@gmail.com__
-&nbsp;
+
 
 - 👀 I have several bullet points with emojis on my readMe, that's how you know I'm cool 
 - 🐶 I also have a very nice dog
