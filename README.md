@@ -14,7 +14,7 @@
 - 👀 I have several bullet points with emojis on my readMe, that's how you know I'm cool 
 - 🐶 I also have a very nice dog
 - 📧 I also have an email address: __vgtmhl@gmail.com__
-- 📜 Download my CV (that I will 100% forget to keep updated) (here)[https://drive.google.com/file/d/1OYy8u5Nk1BXhcUQS4r_ZDjs_ltMEFgzO/view?usp=sharing]
+- 📜 Download my CV (that I will 100% forget to keep updated) [here](https://drive.google.com/file/d/1OYy8u5Nk1BXhcUQS4r_ZDjs_ltMEFgzO/view?usp=sharing)
 
 ---
 **Profiles:**
