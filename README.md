@@ -1,7 +1,8 @@
 ## Hello, I'm Michael
 
 ![dogue](https://user-images.githubusercontent.com/44584815/168486485-4ca709fa-eede-4252-8088-c3f399aa3c22.png)
-(Not me, that's my dog, but he is much nicer to look at)
+
+(That is not me: that is in fact my dog. But he is much nicer to look at)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vgtmhl)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-vigato/)
