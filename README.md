@@ -1,4 +1,4 @@
-## Hello, I'm Michael
+## Hello, I'm Michael 👋
 
 ![dogue](https://user-images.githubusercontent.com/44584815/168486485-4ca709fa-eede-4252-8088-c3f399aa3c22.png)
 
