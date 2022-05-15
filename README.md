@@ -4,6 +4,8 @@
 
 (That is not me: that is in fact my dog. But he is much nicer to look at)
 
+---
+
 **About Me:**
 
 - 🧳 I am a Software Engineer from Italy, currently working in Switzerland
@@ -13,6 +15,7 @@
 - 🐶 I also have a very nice dog
 - 📧 How to reach me: __vgtmhl@gmail.com__
 
+---
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vgtmhl)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-vigato/)
