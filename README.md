@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, I'm Michael
 
-<!--
-**vgtmhl/vgtmhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vgtmhl)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-vigato/)
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me:**
+
+- 🧳 I am a Software Engineer from Italy, currently working in Switzerland
+- 💼 I am currently working in Switzerland 
+- 💻 I am currently working as a Front-end engineer with React, Redux and typescript 
+
+- 🧠 I am currently studying DSA and System Design for technical interviews 
+- 📧 How to reach me: __vgtmhl@gmail.com__
+
+- 👀 I have several bullet points with emojis on my readMe, that's how you know I'm cool 
+- 🐶 I also have a very nice dog
