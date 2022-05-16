@@ -1,8 +1,8 @@
 ## Hello, I'm Michael 👋
-
+ 
 ![dogue](https://user-images.githubusercontent.com/44584815/168486485-4ca709fa-eede-4252-8088-c3f399aa3c22.png)
 
-(That is not me: that is in fact my dog. But he is much nicer to look at)
+<i>(This is not me: this is in fact my dog. But he is much nicer to look at)</i>
 
 ---
 
@@ -21,3 +21,23 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vgtmhl)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-vigato/)
+
+---
+**Main Technologies:**
+
+<div style="display: flex;">
+  <img style="width: 64px" src="https://symbols.getvecta.com/stencil_94/22_react-icon.e55e75bd2e.svg"/>
+  <img style="width: 64px" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg"/>
+  <img style="width: 64px" src="https://symbols.getvecta.com/stencil_98/84_typescript-icon.91937dbb2c.svg"/>
+  <img style="width: 64px" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg"/>
+  <img style="width: 64px" src="https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg"/>
+  <img style="width: 64px" src="https://symbols.getvecta.com/stencil_25/71_redux.da27ac619d.svg"/>
+  <img style="width: 64px" src="https://symbols.getvecta.com/stencil_101/30_webpack-icon.3aae0e41ed.svg"/>
+</div>
+
+
+
+
+
+
+
