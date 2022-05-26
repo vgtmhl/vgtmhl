@@ -6,8 +6,8 @@
 
 ## 🧭 About Me 
 
-- 🧳 I am a Software Engineer from Italy, currently working in Switzerland 
-- 💻 I am currently working as a Front-end engineer with React, Redux and Typescript 
+- 🧳 I am a Software Engineer from Italy, living in Switzerland 
+- 💻 I am currently working as a Frontend engineer with React and Typescript 
 - 🧠 I am currently studying DSA and System Design for technical interviews (mostly for fun :P) 
 - 👀 I have several bullet points with emojis on my readMe, that's how you know I'm cool 
 - 🐶 I also have a very nice dog 
@@ -25,14 +25,14 @@
 ## 💻 Main Technologies 
 
 <div style="display: flex;">
-  &nbsp;&nbsp; <img style="width: 72px" src="https://symbols.getvecta.com/stencil_94/22_react-icon.e55e75bd2e.svg"/> &nbsp;
-  <img style="width: 72px" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg"/> &nbsp;
-  <img style="width: 72px" src="https://symbols.getvecta.com/stencil_98/84_typescript-icon.91937dbb2c.svg"/> &nbsp;
-  <img style="width: 72px" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg"/> &nbsp;
-  <img style="width: 72px" src="https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg"/> &nbsp;
-  <img style="width: 72px" src="https://symbols.getvecta.com/stencil_25/71_redux.da27ac619d.svg"/> &nbsp;
-  <img style="width: 72px" src="https://symbols.getvecta.com/stencil_101/30_webpack-icon.3aae0e41ed.svg"/> &nbsp;
-  <img style="width: 72px" src="https://symbols.getvecta.com/stencil_25/61_nodejs.124d3fe0e1.svg"/> &nbsp;
+  &nbsp;&nbsp; <img alt="react" style="width: 72px" src="https://symbols.getvecta.com/stencil_94/22_react-icon.e55e75bd2e.svg"/> &nbsp;
+  <img alt="javascript" style="width: 72px" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg"/> &nbsp;
+  <img alt="typescript" style="width: 72px" src="https://symbols.getvecta.com/stencil_98/84_typescript-icon.91937dbb2c.svg"/> &nbsp;
+  <img alt="css" style="width: 72px" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg"/> &nbsp;
+  <img alt="sass" style="width: 72px" src="https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg"/> &nbsp;
+  <img alt="redux" style="width: 72px" src="https://symbols.getvecta.com/stencil_25/71_redux.da27ac619d.svg"/> &nbsp;
+  <img alt="webpack" style="width: 72px" src="https://symbols.getvecta.com/stencil_101/30_webpack-icon.3aae0e41ed.svg"/> &nbsp;
+  <img alt="nodejs" style="width: 72px" src="https://symbols.getvecta.com/stencil_25/61_nodejs.124d3fe0e1.svg"/> &nbsp;
 </div>
 
 ## 📊 Some fancy looking charts 
