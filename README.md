@@ -45,6 +45,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
         title="SASS"
         width="60" height="60" /> </a>
+        <br></br>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
         title="Redux"
@@ -63,6 +64,7 @@
         width="60" height="60" /> </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" title="Jest" width="60" height="60" /> </a>
+        <br></br>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="Jenkins" width="60" height="60" /> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
@@ -95,6 +97,7 @@
         src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" width="40" height="40" /> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter" width="40" height="40" /> </a>
+<br></br>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="40" height="40" /> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
@@ -113,6 +116,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" title="MySQL" width="40" height="40" /> </a>
+<br></br>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
         alt="nodejs" title="NodeJS" width="40" height="40" /> </a>
