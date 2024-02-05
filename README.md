@@ -8,12 +8,10 @@
 ## 🧭 About Me 
 
 - 🧳 I am a Software Engineer from Italy, living in Switzerland 
-- 💻 I am currently working as a Frontend engineer with React and Typescript 
-- 🧠 I am currently studying DSA and System Design for technical interviews (mostly for fun :P) 
+- 💻 I am currently working mostly with React and Typescript 
 - 👀 I have several bullet points with emojis on my readMe, that's how you know I'm cool 
 - 🐶 I also have a very nice dog 
 - 📧 I also have an email address where you can <a href="mailto:vgtmhl@gmail.com">contact me</a>
-- 📜 Download my CV (that I will 100% forget to keep updated) [here](https://drive.google.com/file/d/1DnQm2ZcWVov3JhQuLIh3XO5opwNgqLQd/view?usp=sharing) 
 
 &nbsp;&nbsp; <p align="center">![Michael's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=vgtmhl&theme=monokai) </p>
 
